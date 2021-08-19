@@ -1,6 +1,6 @@
-# Collapsible Component using - React
+# Pagination using - React
 
-A react Single-Page Collapsible Component with React!
+A react Single-Page Pagination with React!
 
 # Usage
 
